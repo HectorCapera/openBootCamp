@@ -1,0 +1,46 @@
+body{
+    background-color: #edba38;
+background-image: url("https://wallpaperaccess.com/full/6657782.jpg");
+background-attachment: fixed;
+background-size: cover;
+
+
+}
+.center{
+    text-align: center;
+    margin: 1000px;
+    
+}
+
+
+.boton{
+    width: 1020px;
+    height: 1020px;
+    color: rgb(228, 143, 143);
+    background-color: rgba(80, 7, 7, 0.335);
+    border-radius: 20px;
+    transition: all 1.2s;
+}
+.boton::before{
+    content: "Pasa por encima";
+    font-size: 120px;
+    
+}
+
+.boton:hover::before{
+    display: none;
+
+}
+.boton:hover{
+    background-color: rgba(172, 255, 47, 0.645);
+}
+.boton:hover::after{
+    color: white;
+    content: "Hecho!";
+    font-size: 120px;
+    
+    
+}
+
+
+
