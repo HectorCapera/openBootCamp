@@ -1,1 +1,1 @@
-console.log("Ejercicio de Open Boot Camp");
+console.log("Ejercicio de Open Boot Camp")
