@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exercise": "Hola este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorCapera/openBootCamp.git#main"
+  },
+  "keywords": [
+    "first project"
+  ],
+  "author": "Hector Capera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorCapera/openBootCamp/issues"
+  },
+  "homepage": "https://github.com/HectorCapera/openBootCamp/tree/main#readme"
+}

@@ -1,0 +1,1 @@
+console.log("Ejercicio de Open Boot Camp");
